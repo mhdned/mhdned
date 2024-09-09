@@ -1,4 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/iran/aradfarahani.svg)](https://user-badge.committers.top/iran/aradfarahani)
 # 💫 About Me:
 My name is Mehdi Nedaee and I am a software engineering student. I entered the world of programming five years ago and every day I learned something new that made me more interested in this field. Now I have come to this conclusion that even though our computer world is made of 0 and 1, we can create all kinds of beautiful things with these two numbers.
 
