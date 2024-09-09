@@ -1,7 +1,27 @@
-<h1 align="left">Mahdi (Mehtiuo) Nedaee</h1>
+[![committers.top badge](https://user-badge.committers.top/iran/aradfarahani.svg)](https://user-badge.committers.top/iran/aradfarahani)
+# 💫 About Me:
+My name is Mehdi Nedaee and I am a software engineering student. I entered the world of programming five years ago and every day I learned something new that made me more interested in this field. Now I have come to this conclusion that even though our computer world is made of 0 and 1, we can create all kinds of beautiful things with these two numbers.
 
-###
+## 👨‍💻 Tech Skills:
 
-<h4 align="left">My name is Mehdi Nedaee and I am a software engineering student. I entered the world of programming five years ago and every day I learned something new that made me more interested in this field. Now I have come to this conclusion that even though our computer world is made of 0 and 1, we can create all kinds of beautiful things with these two numbers.</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,nest,jest,js," />
+  </a>
+</p>
 
-###
+
+# 🌐 Socials:
+Coming Soon
+
+# 📊 LeetCode Stats
+Coming Soon
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aradfarahani&theme=light&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aradfarahani&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=400)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aradfarahani&theme=light&hide_border=false)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=aradfarahani&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer" width="100%">
