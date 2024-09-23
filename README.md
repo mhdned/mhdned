@@ -13,8 +13,7 @@ My name is Mehdi Nedaee and I am a software engineering student. I entered the w
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehtiuo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nedaee-232168242/)</a><br>
 
-## 📊 LeetCode Stats
-Coming Soon
-
 ## 📊 GitHub Stats:
-Coming Soon
+![](https://github-readme-stats.vercel.app/api?username=mhdned&theme=light&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=400)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhdned&theme=light&hide_border=false)<br/>
