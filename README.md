@@ -11,7 +11,7 @@ My name is Mehdi Nedaee and I am a software engineering student. I entered the w
 
 
 ## 🌐 Socials:
-Coming Soon
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehtiuo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nedaee-232168242/)</a><br>
 
 ## 📊 LeetCode Stats
 Coming Soon
