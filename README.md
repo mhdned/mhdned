@@ -5,7 +5,19 @@ My name is Mehdi Nedaee and I am a software engineering student. I entered the w
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,nest,jest,js,figma,xd,fastapi,postgresql,mysql,expressjs,html,css,mongodb,php,laravel,vue,tailwind,nuxt,git,github,arduino,bootstrap,npm,postman,rabbitmq,wordpress,vscode,prisma,nginx" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,expressjs,nest,jest,npm" />
+  </a>
+  
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,mongodb,mysql,redis,git,figma,html" />
+  </a>
+  
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,wordpress,raspberrypi,arduino,css" />
   </a>
 </p>
 
