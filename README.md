@@ -28,7 +28,7 @@ My name is Mehdi Nedaee and I am a software engineering student. I entered the w
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mhdned&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned&layout=compact&theme=dark)
-![](https://streak-stats.demolab.com/?user=your-username&theme=dark)
+![](https://streak-stats.demolab.com/?user=mhdned&theme=dark)
 ![](https://github-profile-trophy.vercel.app/?username=mhdned&theme=darkhub)
 
 
