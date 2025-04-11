@@ -10,6 +10,8 @@ I'm a backend developer who’s always learning — not just to build showcase p
 I care about building applications that are practical, well-designed, follow clean architecture and standards, and above all, are easy for users to interact with. That mindset pushed me to collaborate with the <a href="https://github.com/FEZtool-team">**FEZtool team**</a> — working on both a web-based app and the FEZrs Python library for remote sensing tools.
 If you're curious, make sure to check out the <a href="https://github.com/FEZtool-team">**FEZ organization**</a>!
 
+</br>
+
 # ![Alt Text](./images/titles/Tech%20Stack-dark.png)
 
 <p align="center">
@@ -23,14 +25,15 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
   </a>
 </p>
 
+</br>
+
 # ![Alt Text](./images/titles/Tech%20Stack-dark.png)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehtiuo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nedaee-232168242/)
 [![leetcode](https://img.shields.io/badge/Leet-Code-brown?logo=leetcode)](https://leetcode.com/u/Mehtiuo/)
 [![leetcode](https://img.shields.io/static/v1?label=ORCID&message=0009-0001-0357-6019&color=green&style=flat&logo=orcid)](https://orcid.org/0009-0001-0357-6019)
-</br>
-</br>
+
 </br>
 
 # ![Alt Text](./images/titles/GitHub%20Stats-dark.png)
@@ -41,26 +44,18 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 ![](https://github-profile-trophy.vercel.app/?username=mhdned&theme=darkhub)
 
 </br>
-</br>
-</br>
 
 # ![Alt Text](./images/titles/Projects-dark.png)
 ### Coming Soon
 
-</br>
-</br>
 </br>
 
 # ![Alt Text](./images/titles/Goals-dark.png)
 ### Coming Soon
 
 </br>
-</br>
-</br>
 
 # ![Alt Text](./images/titles/Fun%20Facts-dark.png)
 ### Coming Soon
 
-</br>
-</br>
 </br>
