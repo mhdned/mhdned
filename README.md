@@ -27,7 +27,7 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 </br>
 
-# ![Alt Text](./images/titles/Socials-dark.png.png)
+# ![Alt Text](./images/titles/Socials-dark.png)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehtiuo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nedaee-232168242/)
