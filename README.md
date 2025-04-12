@@ -12,7 +12,7 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 </br>
 
-# ![Alt Text](./images/titles/Tech%20Stack-dark.png#gh-dark-mode-only) ![About me](./images/titles/Tech%20Stack-dark.png#gh-light-mode-only)
+# ![Alt Text](./images/titles/Tech%20Stack-dark.png#gh-dark-mode-only) ![About me](./images/titles/Tech%20Stack-light.png#gh-light-mode-only)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 </br>
 
-# ![Alt Text](./images/titles/Socials-dark.png#gh-dark-mode-only) ![About me](./images/titles/Socials-dark.png#gh-light-mode-only)
+# ![Alt Text](./images/titles/Socials-dark.png#gh-dark-mode-only) ![About me](./images/titles/Socials-light.png#gh-light-mode-only)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehtiuo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nedaee-232168242/)
@@ -36,7 +36,7 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 </br>
 
-# ![Alt Text](./images/titles/GitHub%20Stats-dark.png#gh-dark-mode-only) ![About me](./images/titles/GitHub%20Stats-dark.png#gh-light-mode-only)
+# ![Alt Text](./images/titles/GitHub%20Stats-dark.png#gh-dark-mode-only) ![About me](./images/titles/GitHub%20Stats-light.png#gh-light-mode-only)
 
 ![](https://github-readme-stats.vercel.app/api?username=mhdned&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned&layout=compact&theme=dark)
@@ -45,17 +45,17 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 </br>
 
-# ![Alt Text](./images/titles/Projects-dark.png#gh-dark-mode-only) ![About me](./images/titles/Projects-dark.png#gh-light-mode-only)
+# ![Alt Text](./images/titles/Projects-dark.png#gh-dark-mode-only) ![About me](./images/titles/Projects-light.png#gh-light-mode-only)
 ### Coming Soon
 
 </br>
 
-# ![Alt Text](./images/titles/Goals-dark.png#gh-dark-mode-only) ![About me](./images/titles/Goals-dark.png#gh-light-mode-only)
+# ![Alt Text](./images/titles/Goals-dark.png#gh-dark-mode-only) ![About me](./images/titles/Goals-light.png#gh-light-mode-only)
 ### Coming Soon
 
 </br>
 
-# ![Alt Text](./images/titles/Fun%20Facts-dark.png#gh-dark-mode-only) ![About me](./images/titles/Fun%20Facts-dark.png#gh-light-mode-only)
+# ![Alt Text](./images/titles/Fun%20Facts-dark.png#gh-dark-mode-only) ![About me](./images/titles/Fun%20Facts-light.png#gh-light-mode-only)
 ### Coming Soon
 
 </br>
