@@ -1,7 +1,5 @@
 ![Alt Text](./images/GitHubHeaderBanner.gif#gh-dark-mode-only) ![Alt Text](./images/GitHubHeaderBanner-light.gif#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned)
-
 
 # ![About me](./images/titles/About%20me-dark.png#gh-dark-mode-only) ![About me](./images/titles/About%20me-light.png#gh-light-mode-only)
 
