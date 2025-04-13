@@ -46,16 +46,68 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 </br>
 
 # ![Alt Text](./images/titles/Projects-dark.png#gh-dark-mode-only) ![About me](./images/titles/Projects-light.png#gh-light-mode-only)
-### Coming Soon
+
+## 1. [FEZrs](https://github.com/FEZtool-team/FEZrs)
+An open-source tool for remote sensing, containing 15 different utilities. This project aims to simplify and enhance the performance of remote sensing processes, making them faster and more efficient. 🛰️💻
+
+### Features:
+- Improved project structure
+- Added tests for better reliability
+- New tools added and existing tools optimized
+
+---
+
+## 2. [Imagiuo](https://github.com/mhdned/Imagiuo)
+An AI-powered image search assistant that automatically extracts keywords from images. It leverages various APIs and advanced technologies to perform accurate searches. 🤖🖼️
+
+### Features:
+- Image search powered by AI
+- Asynchronous image processing
+- PostgreSQL database for metadata storage
+
+---
+
+## 3. [Petiuo](https://github.com/mhdned/Petiuo)
+A fun project for managing pet information! This app helps you keep track of your pets' profiles and health records. 🐶🐱
+
+### Features:
+- Pet profile management
+- Reminders for vaccinations and other care tasks
+- Simple and user-friendly interface
+
+---
+
+## 4. [SmileDetection](https://github.com/mhdned/SmileDetection)
+A project that detects smiles in images and videos. It can be used for various applications like emotion analysis or simply identifying happy moments! 😊📸
+
+### Features:
+- Smile detection in images
+- Video support for real-time analysis
+- Ideal for emotion analysis and psychological studies
+
 
 </br>
 
 # ![Alt Text](./images/titles/Goals-dark.png#gh-dark-mode-only) ![About me](./images/titles/Goals-light.png#gh-light-mode-only)
-### Coming Soon
+
+Sure, every developer dreams of writing code that's used by the masses — or creating something so powerful it attracts thousands of users and clients.
+
+But maybe there's something even more beautiful...
+
+Instead of just writing code wrapped around algorithms and data structures, imagine blending disciplines — where technology meets fields like architecture, medicine, geology, or any domain that can benefit from digital tools.
+
+The real joy comes when we collaborate across boundaries and build something meaningful. Something that helps. Something that matters. That, to me, is where the magic happens.
 
 </br>
 
 # ![Alt Text](./images/titles/Fun%20Facts-dark.png#gh-dark-mode-only) ![About me](./images/titles/Fun%20Facts-light.png#gh-light-mode-only)
-### Coming Soon
+
+- ⚙️ I'm loyal to *no* tech — one day it's NestJS, the next it's a random Python script that somehow does everything.
+- 🧠 Open-source is my therapy and my stress — I laugh, I cry, I `git commit`.
+- 🎮 Obsessed with:
+  - **Don't Starve Together** (ironically, I often forget to eat while coding)
+  - **Brawlhalla** (DONT TRY THIS GAME)
+  - **Potion Craft** (a game about alchemy)
+- ⚽️ I *really* understand football tactics... but let's just say my stamina is more suited for keyboard battles than running 20 meters.
 
 </br>
