@@ -1,5 +1,8 @@
 ![Alt Text](./images/GitHubHeaderBanner.gif#gh-dark-mode-only) ![Alt Text](./images/GitHubHeaderBanner-light.gif#gh-light-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned)
+
+
 # ![About me](./images/titles/About%20me-dark.png#gh-dark-mode-only) ![About me](./images/titles/About%20me-light.png#gh-light-mode-only)
 
 I'm Mehdi Nedaee. During my time in the Programming field, I realized that even though our world as computer people is made of just 0 and 1, we can still create amazing things with them.
