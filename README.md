@@ -47,40 +47,40 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 # ![Alt Text](./images/titles/Projects-dark.png#gh-dark-mode-only) ![About me](./images/titles/Projects-light.png#gh-light-mode-only)
 
-## 1. [FEZrs](https://github.com/FEZtool-team/FEZrs)
+### 1. [FEZrs](https://github.com/FEZtool-team/FEZrs)
 An open-source tool for remote sensing, containing 15 different utilities. This project aims to simplify and enhance the performance of remote sensing processes, making them faster and more efficient. 🛰️💻
 
-### Features:
+#### Features:
 - Improved project structure
 - Added tests for better reliability
 - New tools added and existing tools optimized
 
----
+</br>
 
-## 2. [Imagiuo](https://github.com/mhdned/Imagiuo)
+### 2. [Imagiuo](https://github.com/mhdned/Imagiuo)
 An AI-powered image search assistant that automatically extracts keywords from images. It leverages various APIs and advanced technologies to perform accurate searches. 🤖🖼️
 
-### Features:
+#### Features:
 - Image search powered by AI
 - Asynchronous image processing
 - PostgreSQL database for metadata storage
 
----
+</br>
 
-## 3. [Petiuo](https://github.com/mhdned/Petiuo)
+### 3. [Petiuo](https://github.com/mhdned/Petiuo)
 A fun project for managing pet information! This app helps you keep track of your pets' profiles and health records. 🐶🐱
 
-### Features:
+#### Features:
 - Pet profile management
 - Reminders for vaccinations and other care tasks
-- Simple and user-friendly interface
+- Simple setup with Raspberry Pi boards
 
----
+</br>
 
-## 4. [SmileDetection](https://github.com/mhdned/SmileDetection)
+### 4. [SmileDetection](https://github.com/mhdned/SmileDetection)
 A project that detects smiles in images and videos. It can be used for various applications like emotion analysis or simply identifying happy moments! 😊📸
 
-### Features:
+#### Features:
 - Smile detection in images
 - Video support for real-time analysis
 - Ideal for emotion analysis and psychological studies
