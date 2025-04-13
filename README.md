@@ -1,6 +1,5 @@
 ![Alt Text](./images/GitHubHeaderBanner.gif#gh-dark-mode-only) ![Alt Text](./images/GitHubHeaderBanner-light.gif#gh-light-mode-only)
 
-
 # ![About me](./images/titles/About%20me-dark.png#gh-dark-mode-only) ![About me](./images/titles/About%20me-light.png#gh-light-mode-only)
 
 I'm Mehdi Nedaee. During my time in the Programming field, I realized that even though our world as computer people is made of just 0 and 1, we can still create amazing things with them.
@@ -39,49 +38,49 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 # ![Alt Text](./images/titles/GitHub%20Stats-dark.png#gh-dark-mode-only) ![About me](./images/titles/GitHub%20Stats-light.png#gh-light-mode-only)
 
-![](https://github-readme-stats.vercel.app/api?username=mhdned&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned&layout=compact&theme=dark)
-![](https://streak-stats.demolab.com/?user=mhdned&theme=dark)
-![](https://github-profile-trophy.vercel.app/?username=mhdned&theme=darkhub)
+![mhdned's Github stats](https://github-readme-stats.vercel.app/api?username=mhdned&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+![mhdned's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned&layout=compact&theme=dark)
+![mhdned's Github stats](https://streak-stats.demolab.com/?user=mhdned&theme=dark)
+![mhdned's Github stats](https://github-profile-trophy.vercel.app/?username=mhdned&theme=darkhub)
 
 </br>
 
 # ![Alt Text](./images/titles/Projects-dark.png#gh-dark-mode-only) ![About me](./images/titles/Projects-light.png#gh-light-mode-only)
 
-### 1. [FEZrs](https://github.com/FEZtool-team/FEZrs)
+## 1. [FEZrs](https://github.com/FEZtool-team/FEZrs)
 An open-source tool for remote sensing, containing 15 different utilities. This project aims to simplify and enhance the performance of remote sensing processes, making them faster and more efficient. 🛰️💻
 
-#### Features:
+### Features:
 - Improved project structure
 - Added tests for better reliability
 - New tools added and existing tools optimized
 
-</br>
+---
 
-### 2. [Imagiuo](https://github.com/mhdned/Imagiuo)
+## 2. [Imagiuo](https://github.com/mhdned/Imagiuo)
 An AI-powered image search assistant that automatically extracts keywords from images. It leverages various APIs and advanced technologies to perform accurate searches. 🤖🖼️
 
-#### Features:
+### Features:
 - Image search powered by AI
 - Asynchronous image processing
 - PostgreSQL database for metadata storage
 
-</br>
+---
 
-### 3. [Petiuo](https://github.com/mhdned/Petiuo)
+## 3. [Petiuo](https://github.com/mhdned/Petiuo)
 A fun project for managing pet information! This app helps you keep track of your pets' profiles and health records. 🐶🐱
 
-#### Features:
+### Features:
 - Pet profile management
 - Reminders for vaccinations and other care tasks
-- Simple setup with Raspberry Pi boards
+- Simple and user-friendly interface
 
-</br>
+---
 
-### 4. [SmileDetection](https://github.com/mhdned/SmileDetection)
+## 4. [SmileDetection](https://github.com/mhdned/SmileDetection)
 A project that detects smiles in images and videos. It can be used for various applications like emotion analysis or simply identifying happy moments! 😊📸
 
-#### Features:
+### Features:
 - Smile detection in images
 - Video support for real-time analysis
 - Ideal for emotion analysis and psychological studies
