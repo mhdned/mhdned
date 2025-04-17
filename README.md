@@ -33,6 +33,7 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nedaee-232168242/)
 [![leetcode](https://img.shields.io/badge/Leet-Code-brown?logo=leetcode)](https://leetcode.com/u/Mehtiuo/)
 [![leetcode](https://img.shields.io/static/v1?label=ORCID&message=0009-0001-0357-6019&color=green&style=flat&logo=orcid)](https://orcid.org/0009-0001-0357-6019)
+[![huggingface](https://img.shields.io/badge/Hugging%20-Face-FF7A8C?logo=huggingface)](https://huggingface.co/Mehtiuo) 
 
 </br>
 
