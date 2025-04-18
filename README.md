@@ -69,7 +69,7 @@ An AI-powered image search assistant that automatically extracts keywords from i
 ---
 
 ## 3. [Petiuo](https://github.com/mhdned/Petiuo)
-A fun project for managing pet information!this project has been developed using a Raspberry Pi Pico microcontroller, with the code written in MicroPython.🐶🐱
+A fun project for managing pet information! this project has been developed using a Raspberry Pi Pico microcontroller, with the code written in MicroPython.🐶🐱
 
 ### Features:
 - Pet profile management
