@@ -40,10 +40,18 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 # ![Alt Text](./images/titles/GitHub%20Stats-dark.png#gh-dark-mode-only) ![About me](./images/titles/GitHub%20Stats-light.png#gh-light-mode-only)
 
-![mhdned's Github stats](https://github-readme-stats.vercel.app/api?username=mhdned&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![mhdned's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned&layout=compact&theme=dark)
-![mhdned's Github stats](https://streak-stats.demolab.com/?user=mhdned&theme=dark)
-![mhdned's Github stats](https://github-profile-trophy.vercel.app/?username=mhdned&theme=darkhub)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=FEZtool-team&repo=FEZrs&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&ring_color=FFD60A&icon_color=FFFFFF" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=mhdned&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&card_width=500&ring_color=FFD60A" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned&layout=donut-vertical&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&ring_color=FFD60A" />
+    </td>
+  </tr>
+</table>
 
 </br>
 
