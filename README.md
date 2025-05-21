@@ -36,8 +36,8 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 [![Orcid](https://img.shields.io/static/v1?label=ORCID&message=0009-0001-0357-6019&color=green&style=flat&logo=orcid)](https://orcid.org/0009-0001-0357-6019)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace%20-mehtiuo-FF7A8C?logo=huggingface)](https://huggingface.co/Mehtiuo)
 [![PyPi](https://img.shields.io/badge/PyPi%20-mehtiuo-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/user/mehtiuo/)
-[![Conda](https://img.shields.io/badge/conda%20-mhdned-38b000?logo=anaconda)](https://anaconda.org/mhdned)
-[![NPM](https://img.shields.io/badge/npm%20-mhdned-CB3837?logo=npm)](https://www.npmjs.com/~mhdned)
+[![Conda](https://img.shields.io/badge/Conda%20-mhdned-38b000?logo=anaconda)](https://anaconda.org/mhdned)
+[![NPM](https://img.shields.io/badge/NPM%20-mhdned-CB3837?logo=npm)](https://www.npmjs.com/~mhdned)
 
 </br>
 
