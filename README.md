@@ -38,6 +38,8 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 [![PyPi](https://img.shields.io/badge/PyPi%20-mehtiuo-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/user/mehtiuo/)
 [![Conda](https://img.shields.io/badge/Conda%20-mhdned-38b000?logo=anaconda)](https://anaconda.org/mhdned)
 [![NPM](https://img.shields.io/badge/NPM%20-mhdned-CB3837?logo=npm)](https://www.npmjs.com/~mhdned)
+[![Docker](https://img.shields.io/badge/Docker%20-mehtiuo-03045e?logo=docker)](https://hub.docker.com/u/mehtiuo)
+[![Trello](https://img.shields.io/badge/Trello%20-mehtiuo-0052CC?logo=trello)](https://trello.com/u/mahdinedaee4)
 
 </br>
 
