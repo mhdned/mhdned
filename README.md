@@ -17,12 +17,12 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,expressjs,nest,jest,npm,php,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,expressjs,nest,jest,npm,php,mongodb,mysql,kafka" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,wordpress,raspberrypi,css,redis,git,figma,html" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,go,postgres,wordpress,raspberrypi,css,redis,git,figma,html" />
   </a>
 </p>
 
