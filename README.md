@@ -47,11 +47,11 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mhdned&theme=dark&short_numbers=true&date_format=%5BY%20%5DM%20j&card_width=500&background=001D3D&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A&dates=FFFFFF&sideNums=9DD5EB" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdned&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&card_width=500&ring_color=FFD60A" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mhdned&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=truex&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&card_width=500&ring_color=FFD60A" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FEZtool-team&repo=FEZrs&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&ring_color=FFD60A&icon_color=FFFFFF" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FEZtool-team&repo=FEZrs&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&ring_color=FFD60A&icon_color=FFFFFF" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned&layout=donut-vertical&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&ring_color=FFD60A" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhdned&layout=donut-vertical&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&ring_color=FFD60A" />
 </div>
 
 </br>
