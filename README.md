@@ -1,4 +1,4 @@
-![Alt Text](./images/GitHubHeaderBanner.gif#gh-dark-mode-only) ![Alt Text](./images/GitHubHeaderBanner-light.gif#gh-light-mode-only)
+![MHDNED](./images/GitHubHeaderBanner.gif#gh-dark-mode-only) ![MHDNED](./images/GitHubHeaderBanner-light.gif#gh-light-mode-only)
 
 # ![About me](./images/titles/About%20me-dark.png#gh-dark-mode-only) ![About me](./images/titles/About%20me-light.png#gh-light-mode-only)
 
@@ -13,7 +13,7 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 </br>
 
-# ![Alt Text](./images/titles/Tech%20Stack-dark.png#gh-dark-mode-only) ![About me](./images/titles/Tech%20Stack-light.png#gh-light-mode-only)
+# ![Tech Stack](./images/titles/Tech%20Stack-dark.png#gh-dark-mode-only) ![Tech Stack](./images/titles/Tech%20Stack-light.png#gh-light-mode-only)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 </br>
 
-# ![Alt Text](./images/titles/Socials-dark.png#gh-dark-mode-only) ![About me](./images/titles/Socials-light.png#gh-light-mode-only)
+# ![Socials](./images/titles/Socials-dark.png#gh-dark-mode-only) ![Socials](./images/titles/Socials-light.png#gh-light-mode-only)
 
 [![Instagram](https://img.shields.io/badge/Instagram-mehtiuo-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehtiuo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahdi%20Nedaee-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nedaee-232168242/)
@@ -43,20 +43,20 @@ If you're curious, make sure to check out the <a href="https://github.com/FEZtoo
 
 </br>
 
-# ![Alt Text](./images/titles/GitHub%20Stats-dark.png#gh-dark-mode-only) ![About me](./images/titles/GitHub%20Stats-light.png#gh-light-mode-only)
+# ![Github Stats](./images/titles/GitHub%20Stats-dark.png#gh-dark-mode-only) ![Github Stats](./images/titles/GitHub%20Stats-light.png#gh-light-mode-only)
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mhdned&theme=dark&short_numbers=true&date_format=%5BY%20%5DM%20j&card_width=500&background=001D3D&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A&dates=FFFFFF&sideNums=9DD5EB" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mhdned&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=truex&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&card_width=500&ring_color=FFD60A" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdned&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&card_width=500&ring_color=FFD60A" />
   <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FEZtool-team&repo=FEZrs&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&ring_color=FFD60A&icon_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdned&layout=donut-vertical&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&ring_color=FFD60A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FEZtool-team&repo=FEZrs&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&ring_color=FFD60A&icon_color=FFFFFF" />
   <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhdned&layout=donut-vertical&theme=gruvbox&title_color=FFD60A&text_color=FFFFFF&bg_color=001D3D&locale=en&ring_color=FFD60A" />
 </div>
 
 </br>
 
-# ![Alt Text](./images/titles/Projects-dark.png#gh-dark-mode-only) ![About me](./images/titles/Projects-light.png#gh-light-mode-only)
+# ![Projects](./images/titles/Projects-dark.png#gh-dark-mode-only) ![Projects](./images/titles/Projects-light.png#gh-light-mode-only)
 
 ## 1. [FEZrs](https://github.com/FEZtool-team/FEZrs)
 
@@ -118,7 +118,7 @@ Codexiuo is a small part of my personal experiences that I’ve been stuck with 
 
 </br>
 
-# ![Alt Text](./images/titles/Goals-dark.png#gh-dark-mode-only) ![About me](./images/titles/Goals-light.png#gh-light-mode-only)
+# ![Goals](./images/titles/Goals-dark.png#gh-dark-mode-only) ![Goals](./images/titles/Goals-light.png#gh-light-mode-only)
 
 Sure, every developer dreams of writing code that's used by the masses — or creating something so powerful it attracts thousands of users and clients.
 
@@ -130,7 +130,7 @@ The real joy comes when we collaborate across boundaries and build something mea
 
 </br>
 
-# ![Alt Text](./images/titles/Fun%20Facts-dark.png#gh-dark-mode-only) ![About me](./images/titles/Fun%20Facts-light.png#gh-light-mode-only)
+# ![Fun Facts](./images/titles/Fun%20Facts-dark.png#gh-dark-mode-only) ![Fun Facts](./images/titles/Fun%20Facts-light.png#gh-light-mode-only)
 
 - ⚙️ I'm loyal to _no_ tech — one day it's NestJS, the next it's a random Python script that somehow does everything.
 - 🧠 Open-source is my therapy and my stress — I laugh, I cry, I `git commit`.
